@@ -16,7 +16,7 @@
 - [Englisch](https://github.com/viraptor/reverse-interview/blob/master/README.md)
 - [Französisch](https://github.com/viraptor/reverse-interview/blob/master/translations/FRENCH.md)
 - [Koreanisch](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/blob/master/Reverse_Interview/README.md)
-- [Kurdish - ckb](https://github.com/viraptor/reverse-interview/blob/master/translations/KURDISH-CKB.md)
+- [Kurdish (ckb)](https://github.com/viraptor/reverse-interview/blob/master/translations/KURDISH-CKB.md)
 - [Portugiesisch (Brazilianisch)](https://github.com/viraptor/reverse-interview/blob/master/translations/pt-BR.md)
 - [Russisch](https://github.com/kix/reverse-interview/blob/master/README.md)
 - [Spanisch](https://github.com/felHR85/Entrevista-inversa/blob/master/README.md)
